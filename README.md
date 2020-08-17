@@ -1,0 +1,1 @@
+# MN_ballot_dropoff_locations
